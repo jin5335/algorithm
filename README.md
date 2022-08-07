@@ -32,9 +32,48 @@
 ### 6th
 - [x] sort, pq: [253. Meeting Rooms
   II](https://leetcode.com/problems/meeting-rooms-ii/) - `Easy`
-- [ ] tree: [11437. LCA](https://www.acmicpc.net/problem/11437)
-- [ ] tree: [11438. LCA 2](https://www.acmicpc.net/problem/11438)
-- [ ] combination:
-- [ ] permutation:
-- [ ] dp:
-- [ ] greedy: 
+- [x] tree: [11437. LCA](https://www.acmicpc.net/problem/11437) - `Easy`
+- [x] tree: [11438. LCA 2](https://www.acmicpc.net/problem/11438) -
+  `Medium`
+- [ ] combination: [77. Combinations](https://leetcode.com/problems/combinations/)
+- [ ] permutation: [46. Permutations](https://leetcode.com/problems/permutations/)
+- [ ] dp: [818. Race Car](https://leetcode.com/problems/race-car/)
+- [ ] greedy:
+
+## 7th
+- greedy
+  - [ ]
+  - [ ]
+  - [ ]
+- bfs
+  - [ ]
+  - [ ]
+- dfs
+  - [ ]
+  - [ ]
+- topology sort
+  - [ ]
+  - [ ]
+- linked list
+  - [ ]
+  - [ ]
+- lis(longest increasing subsequence)
+  - [ ]
+  - [ ]
+- kmp
+  - [ ]
+- binary serach
+  - [ ]
+  - [ ]
+- backtraking
+  - [ ]
+  - [ ]
+  - [ ]
+- divide and conquer
+  - [ ]
+  - [ ]
+- trie
+  - [ ]
+- dynamic
+  - [ ]
+  - [ ]
