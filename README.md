@@ -44,7 +44,9 @@
 - greedy
   - [x] [11047. 동전 0](https://www.acmicpc.net/problem/11047) - `Very
     Easy`
-  - [ ]
+  - [x]
+    [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+- `Easy` but, 난 Solution 보고 품
   - [ ]
 - bfs
   - [ ]
