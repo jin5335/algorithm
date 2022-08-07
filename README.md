@@ -35,8 +35,10 @@
 - [x] tree: [11437. LCA](https://www.acmicpc.net/problem/11437) - `Easy`
 - [x] tree: [11438. LCA 2](https://www.acmicpc.net/problem/11438) -
   `Medium`
-- [ ] combination: [77. Combinations](https://leetcode.com/problems/combinations/)
-- [ ] permutation: [46. Permutations](https://leetcode.com/problems/permutations/)
+- combination: [77. Combinations](https://leetcode.com/problems/combinations/)
+  - [x] recursion - `Very Easy`
+  - [x] iteration - `Medium`
+- [x] permutation: [46. Permutations](https://leetcode.com/problems/permutations/)
 - [ ] dp: [818. Race Car](https://leetcode.com/problems/race-car/)
 - [ ] greedy:
 
@@ -47,7 +49,7 @@
   - [x]
     [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 - `Easy` but, 난 Solution 보고 품
-  - [ ]
+  - [ ] [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)
 - bfs
   - [ ]
   - [ ]
@@ -66,8 +68,8 @@
 - kmp
   - [ ]
 - binary serach
-  - [ ]
-  - [ ]
+  - [x] [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+  - [ ] [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
 - backtraking
   - [ ]
   - [ ]
