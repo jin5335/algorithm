@@ -42,7 +42,8 @@
 
 ## 7th
 - greedy
-  - [ ]
+  - [x] [11047. 동전 0](https://www.acmicpc.net/problem/11047) - `Very
+    Easy`
   - [ ]
   - [ ]
 - bfs
